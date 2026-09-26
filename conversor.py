@@ -1,4 +1,4 @@
-# Meu primeiro projeto em Python
+
 print("--- CONVERSOR DE MOEDAS ---")
 
 dolar_hoje = 5.21 # Exemplo de valor
