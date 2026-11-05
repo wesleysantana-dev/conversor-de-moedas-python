@@ -21,12 +21,12 @@ Com R$ 1200.00 você compra US$ 218.50
 - converter() usa esse valor para calcular a conversão
 - test_conversor.py contém os testes, que simulam a resposta da API e não precisam de internet
 ## Como rodar
-1-Ter o Python 3 instalado
-2-Instalar a biblioteca de requisições: pip install requests
-3-No terminal, rodar: python conversor.py
+1.Ter o Python 3 instalado
+2.Instalar a biblioteca de requisições: pip install requests
+3.No terminal, rodar: python conversor.py
 ## Como rodar os testes
-1-Instalar o pytest: pip install pytest
-2-Na pasta do projeto, rodar: python -m pytest -v
+1.Instalar o pytest: pip install pytest
+2.Na pasta do projeto, rodar: python -m pytest -v
 ## O que estou aprendendo com este projeto
 -Programação orientada a objetos: classes, objetos e self
 -Consumir uma API pública com a biblioteca requests
